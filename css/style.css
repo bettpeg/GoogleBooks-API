@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#book-title {
+    font-weight: bold;
+}
+
+.book-information img {
+    max-width: 300px;
+}
+
+.for-buttons {
+    padding-top: 10px;
+}
